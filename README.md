@@ -1,9 +1,7 @@
 # Midterm Exam Data Analysis
-This analysis uses a fictional data set of midterm exam scores to test different analyses of a data set.  It simulates the midterm exam scores given at three high schools in a larger network of schools.  The data set includes the following:
-- Student exam scores for midterm exams in different subjects, given at at three high schools.  It includes the name of the high school and student's teacher.
-- Average scores and standard deviations for the larger network of schools, of which these students are a subset.  
+This analysis considers a fictional data set of midterm exam scores.  There are two sets of data, one that looks at exam stats at the network level (includes 18 high schools), and another that gives student exam scores at 3 of those high schools.
 
-By comparing the school's exam results to the network data, these recommendations can be made:  
+By comparing the 3 school's exam results to the network data, these recommendations can be made:  
 - On **Curriculum**: 
     - The majority of students in **AP English Language**, **English III**, **AP US History**, and **Physics** score above the network averages on the respective exams.  These curriculums may be particularly strong, and examining them for key qualities may be beneficial.  
 - On **Teacher Preparation**:  
