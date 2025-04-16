@@ -1,5 +1,5 @@
 # Midterm Exam Data Analysis
-This analysis considers a fictional data set of midterm exam scores.  There are two sets of data, one that looks at exam stats at the network level (includes 18 high schools), and another that gives student exam scores at 3 of those high schools.
+This analysis considers a fictional data set of midterm exam scores.  There are two sets of data, one that looks at overall exam stats at the network level (includes 18 high schools), and another that gives individual exam scores at 3 of those high schools.
 
 By comparing the 3 school's exam results to the network data, these recommendations can be made:  
 - On **Curriculum**: 
